@@ -17,9 +17,6 @@
     <string name="settings_category_home">การตั้งค่าหน้าจอ</string>
     <string name="settings_category_drawer">การตั้งค่าลิ้นชัก</string>
     <string name="settings_category_icons">ตั้งค่าไอคอน</string>
-    <string name="title_show_google_app">แสดงแอป Google</string>
-    <string name="msg_minus_one_on_left">เมื่อคุณปัดนิ้วไปทางขวาจากหน้าจอหลัก</string>
-    <string name="msg_minus_one_on_right">เมื่อคุณปัดนิ้วไปทางซ้ายจากหน้าจอหลัก</string>
     <string name="icon_shape_square_name">สี่เหลี่ยม</string>
     <string name="icon_shape_circle_name">วงกลม</string>
     <string name="icon_shape_squircle_name">สี่เหลี่ยมขอบมน</string>

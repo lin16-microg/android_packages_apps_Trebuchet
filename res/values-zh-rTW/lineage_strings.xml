@@ -17,9 +17,6 @@
     <string name="settings_category_home">主畫面設定</string>
     <string name="settings_category_drawer">清單設定</string>
     <string name="settings_category_icons">圖示設定</string>
-    <string name="title_show_google_app">顯示 Google 應用程式</string>
-    <string name="msg_minus_one_on_left">當在主畫面向右滑動時</string>
-    <string name="msg_minus_one_on_right">當在主畫面向左滑動時</string>
     <string name="icon_shape_square_name">方形</string>
     <string name="icon_shape_circle_name">圓形</string>
     <string name="icon_shape_squircle_name">圓角方形</string>

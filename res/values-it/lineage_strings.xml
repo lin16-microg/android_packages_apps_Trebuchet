@@ -17,9 +17,6 @@
     <string name="settings_category_home">Impostazioni schermata iniziale</string>
     <string name="settings_category_drawer">Impostazioni drawer</string>
     <string name="settings_category_icons">Impostazioni icone</string>
-    <string name="title_show_google_app">Mostra l\'app Google</string>
-    <string name="msg_minus_one_on_left">Quando scorri verso destra dalla schermata home</string>
-    <string name="msg_minus_one_on_right">Quando scorri verso sinistra dalla schermata home</string>
     <string name="icon_shape_square_name">Quadrato</string>
     <string name="icon_shape_circle_name">Cerchio</string>
     <string name="icon_shape_squircle_name">Supercerchio</string>

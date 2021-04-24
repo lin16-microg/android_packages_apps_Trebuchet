@@ -17,9 +17,6 @@
     <string name="settings_category_home">Ρυθμίσεις αρχικής οθόνης</string>
     <string name="settings_category_drawer">Ρυθμίσεις συρταριού</string>
     <string name="settings_category_icons">Ρυθμίσεις εικονιδίων</string>
-    <string name="title_show_google_app">Εμφάνιση εφαρμογής Google</string>
-    <string name="msg_minus_one_on_left">Όταν σύρετε προς τα δεξιά από την κύρια αρχική οθόνη</string>
-    <string name="msg_minus_one_on_right">Όταν σύρετε προς τα αριστερά από την κύρια αρχική οθόνη</string>
     <string name="icon_shape_square_name">Τετράγωνο</string>
     <string name="icon_shape_circle_name">Κύκλος</string>
     <string name="icon_shape_squircle_name">Οβάλ τετράγωνο</string>

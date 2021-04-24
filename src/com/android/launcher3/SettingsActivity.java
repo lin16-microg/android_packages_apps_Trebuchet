@@ -41,7 +41,6 @@ import android.preference.Preference;
 import android.preference.PreferenceFragment;
 import android.preference.PreferenceCategory;
 import android.preference.PreferenceScreen;
-import android.preference.SwitchPreference;
 import android.provider.Settings;
 import android.text.TextUtils;
 import android.view.View;
@@ -52,7 +51,6 @@ import android.view.LayoutInflater;
 import android.widget.NumberPicker;
 
 import com.android.launcher3.graphics.IconShapeOverride;
-import com.android.launcher3.lineage.LineageLauncherCallbacks;
 import com.android.launcher3.lineage.LineageUtils;
 import com.android.launcher3.lineage.trust.TrustAppsActivity;
 import com.android.launcher3.notification.NotificationListener;
@@ -78,7 +76,6 @@ public class SettingsActivity extends Activity {
     private static final int DELAY_HIGHLIGHT_DURATION_MILLIS = 600;
     private static final String SAVE_HIGHLIGHTED_KEY = "android:preference_highlighted";
 
-    public static final String KEY_MINUS_ONE = "pref_enable_minus_one";
     private static final String KEY_GRID_SIZE = "pref_grid_size";
     private static final String KEY_SHOW_DESKTOP_LABELS = "pref_desktop_show_labels";
     private static final String KEY_SHOW_DRAWER_LABELS = "pref_drawer_show_labels";
@@ -172,12 +169,6 @@ public class SettingsActivity extends Activity {
             } else {
                 // Initialize the UI once
                 rotationPref.setDefaultValue(getAllowRotationDefaultValue());
-            }
-
-            SwitchPreference minusOne = (SwitchPreference) findPreference(KEY_MINUS_ONE);
-            if (!LineageUtils.hasPackageInstalled(getActivity(),
-                    LineageLauncherCallbacks.SEARCH_PACKAGE)) {
-                homeGroup.removePreference(minusOne);
             }
 
             mGridPref = homeGroup.findPreference(KEY_GRID_SIZE);

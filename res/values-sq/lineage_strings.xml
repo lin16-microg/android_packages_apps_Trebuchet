@@ -17,9 +17,6 @@
     <string name="settings_category_home">Cilësimet e ekranit kryesor</string>
     <string name="settings_category_drawer">Cilësimet e dizenjimit</string>
     <string name="settings_category_icons">Cilësimet e ikonave</string>
-    <string name="title_show_google_app">Shfaq Google app</string>
-    <string name="msg_minus_one_on_left">Kur rëshket djathtas nga faqja kryesore</string>
-    <string name="msg_minus_one_on_right">Kur rëshket majtas nga faqja kryesore</string>
     <string name="icon_shape_square_name">Katror</string>
     <string name="icon_shape_circle_name">Rrathë</string>
     <string name="icon_shape_squircle_name">Katror</string>

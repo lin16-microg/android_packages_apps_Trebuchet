@@ -17,9 +17,6 @@
     <string name="settings_category_home">Definições do ecrã inicial</string>
     <string name="settings_category_drawer">Definições do painel de aplicações</string>
     <string name="settings_category_icons">Definições dos ícones</string>
-    <string name="title_show_google_app">Mostrar aplicação Google</string>
-    <string name="msg_minus_one_on_left">Ao deslizar para a direita no ecrã inicial</string>
-    <string name="msg_minus_one_on_right">Ao deslizar para a esquerda no ecrã inicial</string>
     <string name="icon_shape_square_name">Quadrado</string>
     <string name="icon_shape_circle_name">Círculo</string>
     <string name="icon_shape_squircle_name">Quadrado arredondado</string>

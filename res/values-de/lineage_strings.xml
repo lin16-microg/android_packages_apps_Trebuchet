@@ -17,9 +17,6 @@
     <string name="settings_category_home">Startbildschirm-Einstellungen</string>
     <string name="settings_category_drawer">Einstellungen für die App-Übersicht</string>
     <string name="settings_category_icons">Symboleinstellungen</string>
-    <string name="title_show_google_app">Google App anzeigen</string>
-    <string name="msg_minus_one_on_left">Wenn Sie vom Hauptstartbildschirm aus nach rechts wischen</string>
-    <string name="msg_minus_one_on_right">Wenn Sie vom Hauptstartbildschirm aus nach links wischen</string>
     <string name="icon_shape_square_name">Quadrat</string>
     <string name="icon_shape_circle_name">Kreis</string>
     <string name="icon_shape_squircle_name">Squircle</string>

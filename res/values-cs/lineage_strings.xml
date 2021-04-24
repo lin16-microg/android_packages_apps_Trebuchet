@@ -17,9 +17,6 @@
     <string name="settings_category_home">Nastavení domovské obrazovky</string>
     <string name="settings_category_drawer">Nastavení menu aplikací</string>
     <string name="settings_category_icons">Nastavení ikon</string>
-    <string name="title_show_google_app">Zobrazit aplikaci Google</string>
-    <string name="msg_minus_one_on_left">Při gestu tažení vpravo z hlavní domovské obrazovky</string>
-    <string name="msg_minus_one_on_right">Při gestu tažení vlevo z hlavní domovské obrazovky</string>
     <string name="icon_shape_square_name">Čtverec</string>
     <string name="icon_shape_circle_name">Kruh</string>
     <string name="icon_shape_squircle_name">Zaoblený čtverec</string>

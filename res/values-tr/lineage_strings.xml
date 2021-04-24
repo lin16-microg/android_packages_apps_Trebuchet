@@ -17,9 +17,6 @@
     <string name="settings_category_home">Ana ekran ayarları</string>
     <string name="settings_category_drawer">Çekmece ayarları</string>
     <string name="settings_category_icons">Simge ayarları</string>
-    <string name="title_show_google_app">Google uygulamasını göster</string>
-    <string name="msg_minus_one_on_left">Ana ekrandan sağa kaydırdığınızda</string>
-    <string name="msg_minus_one_on_right">Ana ekrandan sola kaydırdığınızda</string>
     <string name="icon_shape_square_name">Kare</string>
     <string name="icon_shape_circle_name">Daire</string>
     <string name="icon_shape_squircle_name">Köşeli kare</string>

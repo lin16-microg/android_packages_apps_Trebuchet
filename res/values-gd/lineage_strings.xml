@@ -17,9 +17,6 @@
     <string name="settings_category_home">Roghainnean na sgrìn dachaigh</string>
     <string name="settings_category_drawer">Roghainnean an drathair</string>
     <string name="settings_category_icons">Roghainnean nan ìomhaigheagan</string>
-    <string name="title_show_google_app">Seall aplacaid Google</string>
-    <string name="msg_minus_one_on_left">Le grad-shlaighdeadh gu deas on phrìomh sgrìn dhachaigh</string>
-    <string name="msg_minus_one_on_right">Le grad-shlaighdeadh gu clì on phrìomh sgrìn dhachaigh</string>
     <string name="icon_shape_square_name">Ceàrnagach</string>
     <string name="icon_shape_circle_name">Cearcall</string>
     <string name="icon_shape_squircle_name">Ceàrnach bog</string>

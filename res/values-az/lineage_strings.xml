@@ -17,9 +17,6 @@
     <string name="settings_category_home">Əsas ekran tənzimləmələri</string>
     <string name="settings_category_drawer">Siyirmə tənzimləmələri</string>
     <string name="settings_category_icons">Nişan tənzimləmələri</string>
-    <string name="title_show_google_app">Google tətbiqini göstər</string>
-    <string name="msg_minus_one_on_left">Əsas ekrandan sağa sürüşdürəndə</string>
-    <string name="msg_minus_one_on_right">Əsas ekrandan sola sürüşdürəndə</string>
     <string name="icon_shape_square_name">Kvadrat</string>
     <string name="icon_shape_circle_name">Dairə</string>
     <string name="icon_shape_squircle_name">Dəyirmi kvadrat</string>

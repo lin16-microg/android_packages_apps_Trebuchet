@@ -17,7 +17,6 @@
     <string name="settings_category_home">הגדרות מסך הבית</string>
     <string name="settings_category_drawer">הגדרות מגירת היישומים</string>
     <string name="settings_category_icons">הגדרות סמלים</string>
-    <string name="title_show_google_app">הצג את חיפוש Google</string>
     <string name="icon_shape_circle_name">עיגול</string>
     <string name="icon_shape_squircle_name">ריבוע מעוגל</string>
     <string name="icon_shape_teardrop_name">דמעה</string>

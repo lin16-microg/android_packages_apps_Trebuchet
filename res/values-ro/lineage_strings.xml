@@ -17,9 +17,6 @@
     <string name="settings_category_home">Setări ecran de pornire</string>
     <string name="settings_category_drawer">Setări sertar cu aplicaţii</string>
     <string name="settings_category_icons">Setări pictogramă</string>
-    <string name="title_show_google_app">Arată aplicația Google</string>
-    <string name="msg_minus_one_on_left">Când glisați dreapta din ecranul acasă principal</string>
-    <string name="msg_minus_one_on_right">Când glisați stânga din ecranul acasă principal</string>
     <string name="icon_shape_square_name">Pătrat</string>
     <string name="icon_shape_circle_name">Cerc</string>
     <string name="icon_shape_squircle_name">Pătrat rotunjit</string>

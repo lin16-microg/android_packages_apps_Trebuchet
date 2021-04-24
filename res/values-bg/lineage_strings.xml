@@ -17,9 +17,6 @@
     <string name="settings_category_home">Настройки на начален екран</string>
     <string name="settings_category_drawer">Настройки на списък с приложения</string>
     <string name="settings_category_icons">Настройки</string>
-    <string name="title_show_google_app">Покажи Google апликацията</string>
-    <string name="msg_minus_one_on_left">Когато плъзнете надясно от главното меню</string>
-    <string name="msg_minus_one_on_right">Когато плъзнете наляво от главното меню</string>
     <string name="icon_shape_square_name">Квадрат</string>
     <string name="icon_shape_circle_name">Кръг</string>
     <string name="icon_shape_squircle_name">Скуайър</string>

@@ -17,9 +17,6 @@
     <string name="settings_category_home">主屏幕设置</string>
     <string name="settings_category_drawer">抽屉设置</string>
     <string name="settings_category_icons">图标设置</string>
-    <string name="title_show_google_app">显示 Google 应用</string>
-    <string name="msg_minus_one_on_left">当您从主屏幕向右滑动时</string>
-    <string name="msg_minus_one_on_right">当您从主屏幕向左滑动时</string>
     <string name="icon_shape_square_name">方形</string>
     <string name="icon_shape_circle_name">圆形</string>
     <string name="icon_shape_squircle_name">圆角矩形</string>

@@ -17,9 +17,6 @@
     <string name="settings_category_home">Axustes da pantalla principal</string>
     <string name="settings_category_drawer">Axustes da gabeta</string>
     <string name="settings_category_icons">Axustes das iconas</string>
-    <string name="title_show_google_app">Amosar a aplicación Google Now</string>
-    <string name="msg_minus_one_on_left">Cando deslizas cara á dereita dende a pantalla de inicio</string>
-    <string name="msg_minus_one_on_right">Cando esvaras cara á esquerda dende a pantalla de inicio</string>
     <string name="icon_shape_square_name">Cadrado</string>
     <string name="icon_shape_circle_name">Círculo</string>
     <string name="icon_shape_squircle_name">Cantos redondeados</string>

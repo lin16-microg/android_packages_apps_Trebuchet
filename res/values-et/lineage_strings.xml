@@ -17,9 +17,6 @@
     <string name="settings_category_home">Avaekraani sätted</string>
     <string name="settings_category_drawer">Sahtli sätted</string>
     <string name="settings_category_icons">Ikooni sätted</string>
-    <string name="title_show_google_app">Kuva Google\'i rakendus</string>
-    <string name="msg_minus_one_on_left">Kui viipad põhiliselt avaekraanilt paremale</string>
-    <string name="msg_minus_one_on_right">Kui viipad põhiliselt avaekraanilt vasakule</string>
     <string name="icon_shape_square_name">Ruut</string>
     <string name="icon_shape_circle_name">Ring</string>
     <string name="icon_shape_squircle_name">Ümarruut</string>

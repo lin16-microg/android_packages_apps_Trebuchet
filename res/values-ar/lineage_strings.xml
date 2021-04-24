@@ -17,9 +17,6 @@
     <string name="settings_category_home">إعدادات الشاشة الرئيسية</string>
     <string name="settings_category_drawer">إعدادات درج التطبيقات</string>
     <string name="settings_category_icons">إعدادات الرموز</string>
-    <string name="title_show_google_app">أظهر تطبيق Google</string>
-    <string name="msg_minus_one_on_left">عند السحب لليمين من الشاشة الرئيسية الاساسية</string>
-    <string name="msg_minus_one_on_right">عند السحب لليسار من الشاشة الرئيسية الأساسية</string>
     <string name="icon_shape_square_name">مربع</string>
     <string name="icon_shape_circle_name">دائرة</string>
     <string name="icon_shape_squircle_name">دائري مربّع</string>

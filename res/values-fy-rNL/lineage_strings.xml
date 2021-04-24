@@ -17,9 +17,6 @@
     <string name="settings_category_home">Ynstellingen startskerm</string>
     <string name="settings_category_drawer">Ynstellingen app-oersjoch</string>
     <string name="settings_category_icons">Piktogramynstellingen</string>
-    <string name="title_show_google_app">Google-app toane</string>
-    <string name="msg_minus_one_on_left">Wannear\'t jo fan it startskerm út nei rjochts feie</string>
-    <string name="msg_minus_one_on_right">Wannear\'t jo fan it startskerm út nei links feie</string>
     <string name="icon_shape_square_name">Fjouwerkant</string>
     <string name="icon_shape_circle_name">Sirkel</string>
     <string name="icon_shape_squircle_name">Squircle</string>
